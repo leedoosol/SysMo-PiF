@@ -1,0 +1,4 @@
+Layer name, IFMAP Height, IFMAP Width, Filter Height, Filter Width, Channels, Num Filter, Strides,
+FC1, 1, 4096, 1, 4096, 1, 512, 1,
+FC2, 1,  512, 1,  512, 1, 512, 1,
+FC3, 1,  512, 1,  512, 1,   2, 1,
